@@ -1,0 +1,25 @@
+{
+  "name": "tracer-bot(importante)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.26.3",
+    "dotenv": "^17.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sousacaua/new-repository.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sousacaua/new-repository/issues"
+  },
+  "homepage": "https://github.com/sousacaua/new-repository#readme"
+}
